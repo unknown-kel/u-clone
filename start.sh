@@ -9,5 +9,6 @@ cd
 echo -e $w"["$g"INFO"$w"]"$b" Installing..."$w
 pip install requests
 cd u-clone
-python u-clone.py
 echo -e $w"["$g"INFO"$w"]"$b"Starting Tool..Please Wait..."$w
+python u-clone.py
+echo -e $w"["$g"INFO"$w"]"$b"Thanks For Using Our Script..."$w
